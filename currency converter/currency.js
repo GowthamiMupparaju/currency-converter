@@ -28,6 +28,7 @@ function updateValue(e) {
     searchValue = e.target.value;
 }
   
+
 convert.addEventListener("click", getResults);
 
 function getResults() {
